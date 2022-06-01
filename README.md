@@ -24,6 +24,15 @@ In this repository, the implementation of forward and inverse kinematics by redu
   <img src="https://user-images.githubusercontent.com/90580636/171469345-cb54277e-f549-4ec6-8ec3-556dd4845b13.png" width="400" height="266" />
 </p>
 
+<p float="left">
+  <img src="https://user-images.githubusercontent.com/90580636/171469849-489290aa-b067-4952-9732-b77974ec8a10.png" width="400" height="266" />
+  <img src="https://user-images.githubusercontent.com/90580636/171469928-d7b110be-e9cd-44af-a386-8c02b60a546d.png" width="400" height="266" />
+</p>
+
+<p float="left">
+  <img src="https://user-images.githubusercontent.com/90580636/171469073-93323e4f-abcc-469c-b489-19b9a1db5b5d.png" width="400" height="266" />
+  <img src="https://user-images.githubusercontent.com/90580636/171469345-cb54277e-f549-4ec6-8ec3-556dd4845b13.png" width="400" height="266" />
+</p>
 
 
 
