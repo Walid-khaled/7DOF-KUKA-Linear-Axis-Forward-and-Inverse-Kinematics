@@ -19,7 +19,9 @@ In this repository, the implementation of forward and inverse kinematics by redu
 ---
 
 ### Redundancy Resolution
-<img src="https://user-images.githubusercontent.com/90580636/171469073-93323e4f-abcc-469c-b489-19b9a1db5b5d.png" width="500" height="400" />
+<img src="https://user-images.githubusercontent.com/90580636/171469073-93323e4f-abcc-469c-b489-19b9a1db5b5d.png" width="600" height="400" />
+<img src="https://user-images.githubusercontent.com/90580636/171469345-cb54277e-f549-4ec6-8ec3-556dd4845b13.png" width="600" height="400" />
+
 
 
 
