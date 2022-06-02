@@ -34,6 +34,8 @@ In this repository, the implementation of forward and inverse kinematics by redu
   <img src="https://user-images.githubusercontent.com/90580636/171528705-ad43698d-2fb1-4dde-9b31-ebfeaaa90476.gif" width="400" height="250" />
 </p>
 
+Full video is attached [Demo](https://drive.google.com/file/d/1I8UYfvtLoLUNbsUBSjFK0nfnFJDAhTh2/view?usp=sharing)
+
 ## Accuracy and Execution Time
 <p float="left">
   <img src="https://user-images.githubusercontent.com/90580636/171470183-2ce3e89f-c301-4c04-a6e9-2bafcdb007ac.png" width="400" height="250" />
