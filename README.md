@@ -16,8 +16,6 @@ In this repository, the implementation of forward and inverse kinematics by redu
 ### Forward Kinematics can be written as follows:
 ![image](https://user-images.githubusercontent.com/90580636/171468322-838cf1ab-ec6d-4d20-b146-d6a899b7f772.png)
 
----
-
 ## Redundancy Resolution
 <p float="left">
   <img src="https://user-images.githubusercontent.com/90580636/171469073-93323e4f-abcc-469c-b489-19b9a1db5b5d.png" width="400" height="250" />
@@ -42,6 +40,9 @@ Full video is attached [Demo](https://drive.google.com/file/d/1I8UYfvtLoLUNbsUBS
   <img src="https://user-images.githubusercontent.com/90580636/171470229-4b67a4a2-a5a0-4eb3-bdb6-4ea947d22362.png" width="400" height="250" />
 </p>
 
+## How to run
+First open IK.m file and select the preferable redundancy resolution approach as shown below.  
+![image](https://user-images.githubusercontent.com/90580636/171529073-6cd53dc4-00f9-4a7c-ab84-731ca4e7e62f.png)
 
 
 
