@@ -31,7 +31,7 @@ In this repository, the implementation of forward and inverse kinematics by redu
 
 <p float="left">
   <img src="https://user-images.githubusercontent.com/90580636/171470153-220e32db-2a84-4a0e-a2dc-6f905537f914.png" width="400" height="250" />
-  <img src="https://user-images.githubusercontent.com/90580636/171469345-cb54277e-f549-4ec6-8ec3-556dd4845b13.png" width="400" height="250" />
+  <img src="https://user-images.githubusercontent.com/90580636/171528705-ad43698d-2fb1-4dde-9b31-ebfeaaa90476.gif" width="400" height="250" />
 </p>
 
 ## Accuracy and Execution Time
@@ -39,6 +39,7 @@ In this repository, the implementation of forward and inverse kinematics by redu
   <img src="https://user-images.githubusercontent.com/90580636/171470183-2ce3e89f-c301-4c04-a6e9-2bafcdb007ac.png" width="400" height="250" />
   <img src="https://user-images.githubusercontent.com/90580636/171470229-4b67a4a2-a5a0-4eb3-bdb6-4ea947d22362.png" width="400" height="250" />
 </p>
+
 
 
 
