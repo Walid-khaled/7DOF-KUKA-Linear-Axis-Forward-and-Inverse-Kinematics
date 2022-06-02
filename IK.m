@@ -13,7 +13,7 @@ while norm(p_global(1:3) - cur_pos(1:3)) > 1e-02
     [T, T1, T2, T3, T4, ~, ~, ~, cur_pos] =  FK(q, link_lengths);
     
     clf;
-%     view(3)
+    view(3)
     Visualize_Robot(q, q_dot, T, T1, T2, T3, T4, cur_pos, p_global, color_list, 0)
     pause(0.1);
     
