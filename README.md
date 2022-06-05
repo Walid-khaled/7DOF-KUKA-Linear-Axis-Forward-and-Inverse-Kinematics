@@ -1,4 +1,4 @@
-## 7-DOF-KUKA-Linear-Axis-Forward-and-Inverse-Kinematics
+## 7DOF-KUKA-Linear-Axis-Forward-and-Inverse-Kinematics
 Kuka on linear axis includes a further axis to the robot, so it is considerably extending the workspace of the robot. The advantages of the redundant robots are increasing manipulability in specified directions, uniform distribution of velocities and accelerations, minimizing energy consumption, optimizing execution time, etc. However, there are also such drawbacks, as complicated calculations for IK and motion control, and greater structural complexity of construction. 
 
 A manipulator is kinematically redundant when it possesses more degrees of freedom than it is needed to execute a given task. In other words, there are more local coordinate variables than global. The Redundancy Resolution is necessary because it allows to avoid singularity, obstacles and to smooth manipulation around the workspace. The solution for the redundancy is a cost function optimization, where the cost function can be i) energy-based  or ii) minimizing the distance. The Redundancy Resolution includes three methods, which are
