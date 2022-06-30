@@ -46,4 +46,3 @@ First open **IK.m** file and select the preferable redundancy resolution approac
 
 Then run **main_redundancy_resolution.m** file for calculations and visualization.
 
-[MIT License](https://github.com/Walid-khaled/7DOF-KUKA-Linear-Axis-Forward-and-Inverse-Kinematics/blob/main/LICENSE)
