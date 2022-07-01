@@ -18,5 +18,4 @@ disp(p_global)
 %% Getting the pseudo inverse
 flag = 0; % for the weighted pseudoInverse flag = 1
 q = IK(q_0, link_lengths, p_global, flag);
-[T, T1, T2, T3, T4, T5, T6, T7, Pos] = FK(q, link_lengths);
-
+[T, T1, T2, T3, T4, T5, T6, Pos] = FK(q, link_lengths);
