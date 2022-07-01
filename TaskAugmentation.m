@@ -10,7 +10,7 @@ J1 = J(1:3, :);
 J2 = J(4:6, :);
 
 %% Calculating the forward kinematics
-[~, ~, ~, ~, ~, ~, ~, ~, cur_pos] =  FK(q_0, link_lengths);
+[~, ~, ~, ~, ~, ~, ~, cur_pos] =  FK(q_0, link_lengths);
 
 %% Getting the r vector
 r1 = p_global(1:3) - cur_pos(1:3);
