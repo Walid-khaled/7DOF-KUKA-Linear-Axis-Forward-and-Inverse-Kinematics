@@ -1,4 +1,4 @@
-[[Demo]](https://drive.google.com/file/d/1I8UYfvtLoLUNbsUBSjFK0nfnFJDAhTh2/view?usp=sharing)
+[[Demo]](https://youtu.be/QU4yxvBdSNA)
 
 ## 7DOF-KUKA-Linear-Axis-Forward-and-Inverse-Kinematics
 Kuka on linear axis includes a further axis to the robot, so it is considerably extending the workspace of the robot. The advantages of the redundant robots are increasing manipulability in specified directions, uniform distribution of velocities and accelerations, minimizing energy consumption, optimizing execution time, etc. However, there are also such drawbacks, as complicated calculations for IK and motion control, and greater structural complexity of construction. 
@@ -34,7 +34,7 @@ In this repository, the implementation of forward and inverse kinematics by redu
   <img src="https://user-images.githubusercontent.com/90580636/171528705-ad43698d-2fb1-4dde-9b31-ebfeaaa90476.gif" width="400" height="250" />
 </p>
 
-Full video is attached [Demo](https://drive.google.com/file/d/1I8UYfvtLoLUNbsUBSjFK0nfnFJDAhTh2/view?usp=sharing)
+Full video is attached [Demo](https://youtu.be/QU4yxvBdSNA)
 
 ## Accuracy and Execution Time
 <p float="left">
