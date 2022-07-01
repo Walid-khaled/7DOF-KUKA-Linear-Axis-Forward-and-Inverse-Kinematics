@@ -119,7 +119,7 @@ end
 
 q_0_dot = [q_0_dot_1; q_0_dot_2; q_0_dot_3; q_0_dot_4; q_0_dot_5; q_0_dot_6; q_0_dot_7];
 %% Calculating the forward kinematics
-[~, ~, ~, ~, ~, ~, ~, ~, cur_pos] =  FK(q_0, link_lengths);
+[~, ~, ~, ~, ~, ~, ~, cur_pos] =  FK(q_0, link_lengths);
 
 %% Getting the r vector
 r = p_global - cur_pos;
