@@ -8,7 +8,7 @@ J = Jacobian(q_0, link_lengths);
 
 
 %% Calculating the forward kinematics
-[~, ~, ~, ~, ~, ~, ~, ~, cur_pos] = FK(q_0, link_lengths);
+[~, ~, ~, ~, ~, ~, ~, cur_pos] =  FK(q_0, link_lengths);
 
 %% Getting the r vector
 r = p_global - cur_pos;
